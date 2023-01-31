@@ -1,0 +1,6 @@
+[submodule "Fast-Planner"]
+	path = Fast-Planner
+	url = https://github.com/DreamWest/Fast-Planner.git
+[submodule "px4_offb_ctrl"]
+	path = px4_offb_ctrl
+	url = https://github.com/DreamWest/px4_offb_ctrl.git
